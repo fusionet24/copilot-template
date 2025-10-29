@@ -12,6 +12,9 @@ copilot-template/
 └── .github/                 # Vscode templates
 ```
 
+<img width="1086" height="701" alt="image" src="https://github.com/user-attachments/assets/bffc1066-1fc5-46a7-991d-0b817e780636" />
+
+
 ## Getting Started
 
 ### 1. Clone the Template
